@@ -53,7 +53,7 @@ function App() {
   return (
     <>
       <div id="home"></div>
-      <div className={slide ? style.blurit : style.dontblurit}>
+      <div className={slide ? style.blurit : style.dontblurit} >
         <div
           className={style.res}
           style={g ? { display: "none" } : {}}
@@ -126,7 +126,7 @@ function App() {
           and I’m always eager to learn new things in the web world
         </div>
       ) : (
-        <div className={slide ? style.popit : style.Dontpopit}>
+        <div className={slide ? style.popit : style.Dontpopit} style={Count==0?{display:'none'}:{}}>
           <div
             className={style.clsoeinpop}
             onClick={() => {

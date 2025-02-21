@@ -656,3 +656,6 @@ animation-duration: 1500ms;
   top: 20%;
   left: 10%;
 }
+  .aboutme p {
+    left: 30%;
+  }
