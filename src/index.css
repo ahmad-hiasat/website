@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+body{
+    background: linear-gradient(#1E1E2E, #303048);
+    height: 100vh;
+    overflow-x: hidden;
+}
+html {
+    scroll-behavior: smooth;
+  }
