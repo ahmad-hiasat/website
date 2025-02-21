@@ -514,7 +514,7 @@ animation-duration: 1500ms;
   }
   .divahmad{
     left: 15%;
-    top: 20vw;
+    top: 18vw;
   }
   .aboutme{
     width: 30vw;
@@ -619,7 +619,7 @@ animation-duration: 1500ms;
 }
 @media (min-width:1440px) {
   .aboutme{
-    width: 90px;
+    width: 120px;
     left: 25%;
     top: 55vh;
     height: 40px;

@@ -121,9 +121,7 @@ function App() {
                 }
           }
         >
-          Frontend developer passionate about creating smooth and engaging user
-          experiences. I love turning ideas into reality using React and CSS,
-          and I’m always eager to learn new things in the web world
+         I'm a frontend developer who enjoys creating smooth and engaging user experiences. I love bringing ideas to life using React and CSS, and I'm always looking to learn new things and improve my skills in the web development world.
         </div>
       ) : (
         <div className={slide ? style.popit : style.Dontpopit} style={Count==0?{display:'none'}:{}}>
@@ -134,9 +132,7 @@ function App() {
               setSlide(false);
             }}
           ></div>
-          Frontend developer passionate about creating smooth and engaging user
-          experiences. I love turning ideas into reality using React and CSS,
-          and I’m always eager to learn new things in the web world
+         I'm a frontend developer who enjoys creating smooth and engaging user experiences. I love bringing ideas to life using React and CSS, and I'm always looking to learn new things and improve my skills in the web development world.
         </div>
       )}
       <div id="about-me" className={style.divabout}>
